@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sH4d0w420
-- 👀 I’m interested in ... learning how to code and be a white hat hacker, sorry if this sounds nerdy 😂
-- 🌱 I’m currently learning ... python coding
+- 👀 I’m interested in ... learning how to code in LUA and Python
+- 🌱 I’m currently learning ... LUA
 - 📫 How to reach me ... @Iplayfluteonmy2 on twitter.
 
 <!---
